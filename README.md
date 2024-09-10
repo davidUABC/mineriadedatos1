@@ -1,0 +1,2 @@
+# mineriadedatos1
+practica
